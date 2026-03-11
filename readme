@@ -1,0 +1,223 @@
+markdown
+# Instructional Design Skills for Claude
+
+A free, open-source collection of skill files 
+for instructional designers working with Claude 
+(or any AI assistant that supports custom 
+instructions and skill prompting).
+
+Each file in this collection gives Claude 
+the context, frameworks, vocabulary, and 
+judgment it needs to function as a genuine 
+instructional design thought partner — 
+not just a content generator.
+
+---
+
+## What This Is
+
+These are not prompts. They are **skill files** — 
+structured knowledge documents that teach Claude 
+how instructional designers think, what frameworks 
+they use, and what good work looks like in 
+each domain.
+
+Load one (or several) into your AI assistant's 
+context, and Claude becomes a collaborator 
+who understands your craft — not a tool 
+you have to explain yourself to every time.
+
+---
+
+## Who This Is For
+
+- **Instructional designers** who want AI that 
+  speaks their language
+- **L&D professionals** looking to use AI 
+  as a design partner, not just a writing assistant
+- **New IDs** building their practice and 
+  looking for a knowledgeable thinking partner
+- **Teams** who want consistent AI-assisted 
+  design support across projects
+
+---
+
+## The Skills
+
+### Foundations
+| File | What It Covers |
+|---|---|
+| `needs-analysis-performance-consulting.md` | Diagnosing performance problems, determining whether training is the right solution, performance consulting frameworks |
+| `assessment-design.md` | Writing valid assessments, Bloom's Taxonomy, question types, alignment to objectives |
+| `writing-for-elearning.md` | Voice, tone, plain language, writing for the screen, narration scripts |
+| `strategies-for-managing-cognitive-load.md` | Cognitive load theory, working memory, instructional strategies that reduce extraneous load |
+
+### Design Practice
+| File | What It Covers |
+|---|---|
+| `scenario-based-learning.md` | Case-based and branching scenarios, realistic decision-making, consequence design |
+| `interaction-design-basics.md` | Interaction types, engagement design, meaningful vs. cosmetic interactivity |
+| `designing-for-motivation.md` | ARCS model, intrinsic/extrinsic motivation, relevance, learner engagement strategies |
+| `designing-for-behavior-change.md` | COM-B, Fogg's Behavior Model, habit formation, closing the knowing-doing gap |
+| `designing-for-skills-development.md` | Deliberate practice, novice-to-expert continuum, transfer design, tacit knowledge |
+
+### Craft and Quality
+| File | What It Covers |
+|---|---|
+| `visual-design-principles.md` | CRAP principles, typography, color, layout, hierarchy, imagery for e-learning |
+| `accessibility-in-elearning.md` | WCAG, Universal Design for Learning, situational accessibility, testing, compliance |
+| `quality-assurance-testing.md` | Functional, instructional, editorial, and accessibility QA; bug tracking; sign-off process |
+
+### Collaboration and Strategy
+| File | What It Covers |
+|---|---|
+| `stakeholder-management-performance-consulting.md` | Managing stakeholders, scope, pushback, and project dynamics |
+| `ai-prompt-engineering-for-ids.md` | Writing effective prompts for ID tasks, prompt frameworks, AI-assisted design workflows |
+
+---
+
+## How to Use These Files
+
+### Option 1: Paste into context
+Copy the contents of any skill file 
+and paste it at the start of your 
+conversation with Claude before 
+making your request.
+
+### Option 2: Use as a system prompt
+If your AI tool supports system prompts 
+or custom instructions, paste one or 
+more skill files there for persistent context.
+
+### Option 3: Use with OpenClaw or similar tools
+If you're using an AI orchestration tool 
+that supports skill files natively, 
+these files are structured to work 
+as drop-in skills.
+
+### Option 4: Reference specific sections
+Each skill file is structured with 
+clear headings. You can copy a single 
+section — a framework, a checklist, 
+a set of prompt templates — and use 
+it without loading the full file.
+
+---
+
+## Example Prompts
+
+markdown
+Once you've loaded a skill file, 
+try prompts like these:
+
+**With `needs-analysis-performance-consulting.md`:**
+> *"I have a stakeholder who wants a course 
+> on time management. Help me think through 
+> whether training is actually the right solution."*
+
+**With `scenario-based-learning.md`:**
+> *"Help me write a branching scenario 
+> for new managers who need to practice 
+> delivering difficult feedback."*
+
+**With `assessment-design.md`:**
+> *"Review these five quiz questions 
+> and tell me whether they're testing 
+> application or just recall."*
+
+**With `accessibility-in-elearning.md`:**
+> *"Audit this course storyboard for 
+> accessibility issues I should 
+> address before development."*
+
+**With `quality-assurance-testing.md`:**
+> *"Help me build a QA checklist 
+> for a branching scenario course 
+> I'm about to hand off to a client."*
+
+**With `designing-for-behavior-change.md`:**
+> *"My client wants a compliance course 
+> that actually changes behavior, not 
+> just checks a box. Where do I start?"*
+
+---
+
+## Design Principles Behind These Files
+
+Every skill file in this collection 
+was built with the same commitments:
+
+**Performance over coverage**
+These files teach Claude to think 
+about what learners will *do*, 
+not just what they will *know*. 
+The language of performance — 
+observable behavior, job application, 
+transfer — runs through everything.
+
+**Evidence-informed**
+Frameworks and strategies are grounded 
+in learning science and established 
+ID practice — not trends or buzzwords.
+
+**Opinionated where it matters**
+Good instructional design requires 
+judgment, not just information. 
+These files give Claude the stances 
+and heuristics to have useful opinions — 
+not just present options.
+
+**Practical, not academic**
+These are working tools, not literature 
+reviews. Every section is written for 
+use on actual projects.
+
+---
+
+## Contributing
+
+Have a skill to add? See a gap? 
+Want to improve an existing file?
+
+Contributions are welcome. Please:
+- Follow the existing file structure 
+  and formatting conventions
+- Use kebab-case filenames with 
+  `.md` extension
+- One skill per file
+- Include a references section 
+  with credible, practitioner-accessible sources
+- Write for working IDs, not academics
+
+Open a pull request or start 
+a discussion in Issues.
+
+---
+
+## About
+
+This collection was created by 
+**Trina Rimmer** — instructional designer, 
+L&D consultant, and author of the 
+*Kickstart Your E-Learning Career* guidebook.
+
+Trina helps aspiring instructional designers 
+break into the field and helps organizations 
+build learning experiences that actually work.
+
+- Website: [trinarimmer.com](https://trinarimmer.com)
+- Kickstart Guidebook: [trinarimmer.com/products](https://trinarimmer.com)
+
+---
+
+## License
+
+MIT License. Use freely, adapt liberally, 
+share widely. Credit appreciated but not required.
+
+---
+
+*Built for instructional designers 
+who want AI that understands their craft.*
+---
+
