@@ -50,6 +50,7 @@ you have to explain yourself to every time.
 | `assessment_design.md` | Writing valid assessments, Bloom's Taxonomy, question types, alignment to objectives |
 | `writing_for_elearning.md` | Voice, tone, plain language, writing for the screen, narration scripts |
 | `strategies_for_managing_cognitive_load.md` | Cognitive load theory, working memory, instructional strategies that reduce extraneous load |
+| `id_models_and_methodologies.md` | ADDIE, SAM, Action Mapping, Gagne's Nine Events, Bloom's Taxonomy, Merrill's First Principles, Kirkpatrick-Phillips, 70-20-10 |
 
 ### design_practice/
 | File | What It Covers |
