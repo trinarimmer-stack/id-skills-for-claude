@@ -484,8 +484,7 @@ of designing around them.
 
 ## References & Further Reading
 
-- *The Art of Facilitation* — Dale Hunter, 
-  Anne Bailey & Bill Taylor
+- *The Art of Facilitation* — Dale Hunter, Anne Bailey & Bill Taylor
 - *Facilitating with Ease!* — Ingrid Bens
 - *The Skilled Facilitator* — Roger Schwarz
 - *Inclusion: Diversity, The New Workplace 

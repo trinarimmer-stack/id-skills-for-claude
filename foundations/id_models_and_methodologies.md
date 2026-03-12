@@ -542,23 +542,14 @@ for evaluation.
 ---
 
 ## References & Further Reading
-- *Designing Effective Instruction* — 
-  Morrison, Ross, Kalman & Kemp
-- *e-Learning and the Science of Instruction* — 
-  Ruth Colvin Clark & Richard Mayer
-- *Michael Allen's Guide to e-Learning* — 
-  Michael Allen (SAM)
-- *Map It* — Cathy Moore (Action Mapping)
-- *The Conditions of Learning* — 
-  Robert Gagne
-- *A Taxonomy for Learning, Teaching, 
-  and Assessing* — Anderson & Krathwohl 
-  (revised Bloom's)
-- *First Principles of Instruction* — 
-  David Merrill
-- *Evaluating Training Programs* — 
-  Donald Kirkpatrick
-- *Map It* — Cathy Moore — blog.cathy-moore.com
+- *Designing Effective Instruction* — Gary R. Morrison, Steven M. Ross, Howard K. Kalman & Jerrold E. Kemp
+- *e-Learning and the Science of Instruction* — Ruth Colvin Clark & Richard Mayer
+- *Michael Allen's Guide to e-Learning* — Michael Allen (SAM)
+- *Map It* — Cathy Moore (Action Mapping) — blog.cathy-moore.com
+- *The Conditions of Learning* — Robert Gagné
+- *A Taxonomy for Learning, Teaching, and Assessing* — Lorin Anderson & David Krathwohl (revised Bloom's)
+- *First Principles of Instruction* — M. David Merrill
+- *Evaluating Training Programs* — Donald Kirkpatrick
 - *Design for How People Learn* — Julie Dirksen
 - *First Things Fast* — Allison Rossett
 - Will Thalheimer's research — willatworklearning.com

@@ -303,7 +303,7 @@ When asking AI to write or rewrite e-learning content, specify:
 - *Letting Go of the Words* — Ginny Redish
 - *e-Learning and the Science of Instruction* — Ruth Colvin Clark & Richard Mayer
 - *The Elements of Style* — Strunk & White
-- *Show Your Work* — Jane Bozarth (plain language for L&D)
+- *Show Your Work: The Payoffs and How-To's of Working Out Loud* — Jane Bozarth
 - Connie Malamed, The eLearning Coach — theelearningcoach.com
 - Hemingway Editor — hemingwayapp.com
 - Plain Language Guidelines — plainlanguage.gov
