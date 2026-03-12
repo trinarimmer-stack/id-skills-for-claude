@@ -98,16 +98,6 @@ Start with the skills you reach for most often.
 See `COMBINATIONS.md` for suggestions based on 
 the type of work you do most.
 
-### Option C: Claude Projects (manual, no GitHub connection)
-If you use Claude.ai with Projects but prefer not to 
-connect GitHub:
-1. Create a project for your ID work
-2. Click **Add content** and paste each skill file 
-   as a separate piece of project knowledge
-3. Skills will be available in every 
-   conversation in that project — 
-   no re-pasting required
-
 ### Option C: API / Custom Tools
 If you're using Claude via API or 
 a tool like OpenClaw:
