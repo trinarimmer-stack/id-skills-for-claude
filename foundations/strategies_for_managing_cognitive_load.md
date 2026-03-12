@@ -16,7 +16,7 @@ the limits of human memory.
 
 ## Core Principle: Working Memory Is Small. Design Accordingly.
 The human brain processes new information in working memory, 
-which can hold approximately 4–7 chunks of information at a time. 
+which can hold approximately 4 items at a time — George Miller's classic "7 plus or minus 2" estimate (1956) has been substantially revised downward by Nelson Cowan (2001) and others, with current research supporting a more conservative limit closer to 4. 
 When working memory is overloaded, learning stops — not because 
 the learner isn't trying, but because the mental architecture 
 simply can't process more.

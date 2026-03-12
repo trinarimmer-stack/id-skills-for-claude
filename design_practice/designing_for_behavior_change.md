@@ -137,8 +137,6 @@ Small, indirect interventions that make
 desired behaviors easier without 
 restricting choice.
 
-Slay, App, Now
-markdown
 Applications in learning design:
 - Default settings that encourage 
   desired behavior
@@ -430,12 +428,20 @@ markdown
 - **Mystery shopping / audits:** 
   For customer-facing behaviors
 
-### The 70-Day Rule
-Research suggests it takes an average 
-of 66 days (ranging from 18 to 254) 
-for a new behavior to become automatic. 
-Measure behavior change at 30, 60, 
-and 90 days post-training — 
+### How Long Does Behavior Change Take?
+Research by Phillippa Lally et al. (UCL, 2010) 
+found that habit formation took an average 
+of 66 days — but with a wide range of 
+18 to 254 days depending on the person, 
+the behavior, and the context. 
+
+This is a rough heuristic, not a fixed law. 
+Treat it as a reminder that behavior change 
+takes weeks and months, not days — 
+and that measurement needs to reflect that reality.
+
+As a practical guide, measure behavior change 
+at 30, 60, and 90 days post-training — 
 not immediately after.
 
 ---
