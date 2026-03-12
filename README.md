@@ -68,6 +68,11 @@ you have to explain yourself to every time.
 | `accessibility_in_elearning.md` | WCAG, Universal Design for Learning, situational accessibility, testing, compliance |
 | `quality_assurance_testing_for_elearning.md` | Functional, instructional, editorial, and accessibility QA; bug tracking; sign-off process |
 
+### tools/
+| File | What It Covers |
+|---|---|
+| `authoring_tool_capabilities.md` | Capabilities and constraints of Storyline 360, Rise 360, and Lectora — interaction types, accessibility, review tools, publishing formats, and when to use which tool |
+
 ### collaboration_and_strategy/
 Relationships are not supplementary to instructional design — they are foundational to it. This folder covers the human side of the work: the partnerships, communication, and community that determine whether great design actually reaches learners.
 

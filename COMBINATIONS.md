@@ -184,6 +184,26 @@ the wrong problem.*
 
 ---
 
+### Designing Within a Specific Authoring Tool
+*You need design recommendations that are 
+technically feasible in your actual tool.*
+
+**Load:**
+- `tools/authoring_tool_capabilities.md`
+- `design_practice/scenario_based_learning.md` *(if building scenarios)*
+- `craft_and_quality/accessibility_in_elearning.md` *(if accessibility is a priority)*
+
+**Try:**
+> *"I'm building a branching scenario in Storyline 360 
+> for new managers. What's the most efficient way 
+> to structure the slide logic?"*
+
+> *"My client needs a mobile-first compliance course. 
+> Should I use Rise or Storyline, and what 
+> interaction types are realistic?"*
+
+---
+
 ### Designing a Cohort or Group Learning Program
 *You're moving beyond self-paced courses into 
 live, virtual, or blended cohort experiences.*
@@ -229,6 +249,7 @@ design partner, not just a writing assistant.*
 | `accessibility_in_elearning.md` | `visual_design_principles.md`, `quality_assurance_testing_for_elearning.md` |
 | `quality_assurance_testing_for_elearning.md` | `accessibility_in_elearning.md`, `writing_for_elearning.md` |
 | `visual_design_principles.md` | `strategies_for_managing_cognitive_load.md`, `accessibility_in_elearning.md` |
+| `authoring_tool_capabilities.md` | `scenario_based_learning.md`, `accessibility_in_elearning.md`, `interaction_design_basics.md` |
 | `facilitation_and_cohort_learning.md` | `designing_for_motivation.md`, `designing_for_behavior_change.md`, `accessibility_in_elearning.md` |
 | `ai_prompt_engineering_for_ids.md` | Any skill file relevant to your current task |
 | `id_models_and_methodologies.md` | `needs_analysis_performance_consulting.md`, `assessment_design.md` |
