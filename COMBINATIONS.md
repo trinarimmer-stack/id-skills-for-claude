@@ -184,6 +184,24 @@ the wrong problem.*
 
 ---
 
+### Designing a Cohort or Group Learning Program
+*You're moving beyond self-paced courses into 
+live, virtual, or blended cohort experiences.*
+
+**Load:**
+- `collaboration_and_strategy/facilitation_and_cohort_learning.md`
+- `design_practice/designing_for_motivation.md`
+- `design_practice/designing_for_behavior_change.md`
+
+**Try:**
+> *"I'm designing a six-week virtual leadership 
+> development cohort for new managers. 
+> Help me design the session arc, 
+> between-session activities, and 
+> community-building approach."*
+
+---
+
 ### Using AI Effectively in Your ID Practice
 *You want to use Claude as a genuine 
 design partner, not just a writing assistant.*
@@ -211,6 +229,7 @@ design partner, not just a writing assistant.*
 | `accessibility_in_elearning.md` | `visual_design_principles.md`, `quality_assurance_testing_for_elearning.md` |
 | `quality_assurance_testing_for_elearning.md` | `accessibility_in_elearning.md`, `writing_for_elearning.md` |
 | `visual_design_principles.md` | `strategies_for_managing_cognitive_load.md`, `accessibility_in_elearning.md` |
+| `facilitation_and_cohort_learning.md` | `designing_for_motivation.md`, `designing_for_behavior_change.md`, `accessibility_in_elearning.md` |
 | `ai_prompt_engineering_for_ids.md` | Any skill file relevant to your current task |
 | `id_models_and_methodologies.md` | `needs_analysis_performance_consulting.md`, `assessment_design.md` |
 

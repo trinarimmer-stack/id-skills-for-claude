@@ -517,7 +517,7 @@ for evaluation.
 
 ---
 
-## Common Mistakes in Applying ID Models
+## Applying ID Models Well: What to Watch For
 
 - **Applying ADDIE too literally** — 
   treating it as a waterfall process 
@@ -558,7 +558,9 @@ for evaluation.
   David Merrill
 - *Evaluating Training Programs* — 
   Donald Kirkpatrick
-- Cathy Moore's blog — 
-  blog.cathy-moore.com
-- Will Thalheimer's research — 
-  willatworklearning.com
+- *Map It* — Cathy Moore — blog.cathy-moore.com
+- *Design for How People Learn* — Julie Dirksen
+- *First Things Fast* — Allison Rossett
+- Will Thalheimer's research — willatworklearning.com
+- Patti Shank's writing on evidence-based ID — pattishank.com
+- Jane Bozarth on practical application of ID theory — bozarthzone.com

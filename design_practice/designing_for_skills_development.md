@@ -543,7 +543,7 @@ Assess at multiple points:
 
 ---
 
-## Common Skill Development Design Mistakes
+## Skill Development Design: Patterns Worth Examining
 
 - **Stopping at declarative knowledge** — 
   teaching what the skill is 
@@ -577,27 +577,16 @@ Assess at multiple points:
 ---
 
 ## References & Further Reading
-- *Peak: Secrets from the New Science 
-  of Expertise* — Anders Ericsson & 
-  Robert Pool (the definitive work 
-  on deliberate practice)
-- *Make It Stick* — Brown, Roediger 
-  & McDaniel (learning science 
-  and retrieval practice)
-markdown
-- *Building Expertise* — 
-  Ruth Colvin Clark
-- *The Cambridge Handbook of 
-  the Learning Sciences* — 
-  R. Keith Sawyer (ed.)
-- *Efficiency in Learning* — 
-  Clark, Nguyen & Sweller 
-  (cognitive load and 
-  worked examples)
-- *The Art and Science of Teaching* — 
-  Robert Marzano
-- Cognitive Task Analysis resources — 
-  Gary Klein, David Militello
+- *Peak: Secrets from the New Science of Expertise* — Anders Ericsson & Robert Pool
+- *Make It Stick* — Brown, Roediger & McDaniel
+- *Building Expertise* — Ruth Colvin Clark
+- *Design for How People Learn* — Julie Dirksen
+- *The Cambridge Handbook of the Learning Sciences* — R. Keith Sawyer (ed.)
+- *Efficiency in Learning* — Clark, Nguyen & Sweller
+- *The Art and Science of Teaching* — Robert Marzano
+- Cognitive Task Analysis resources — Gary Klein, David Militello
+- Patti Shank on evidence-based practice design — pattishank.com
+- Will Thalheimer on learning transfer — willatworklearning.com
 - Will Thalheimer on learning 
   transfer — willatworklearning.com
 - Learning & Development research — 

@@ -246,7 +246,7 @@ The more specific the prompt, the more usable the output.
 
 ---
 
-## Common Scenario Design Mistakes
+## Scenario Design: Patterns Worth Examining
 
 - **The "gotcha" scenario** — deliberately obscure or 
   trick questions that frustrate rather than develop judgment
@@ -267,12 +267,10 @@ The more specific the prompt, the more usable the output.
 ---
 
 ## References & Further Reading
-- *Map It* — Cathy Moore (the definitive guide to 
-  action mapping and scenario design)
+- *Map It* — Cathy Moore (action mapping and scenario design)
 - *Design for How People Learn* — Julie Dirksen
 - *The Art of Explanation* — Lee LeFever
-- Cathy Moore's Action Mapping framework
-- Will Thalheimer's research on spaced practice and 
-  scenario-based learning
-- Twine (free branching scenario authoring tool): 
-  twinery.org
+- Cathy Moore's blog and resources — blog.cathy-moore.com
+- Will Thalheimer's research on scenario-based learning — willatworklearning.com
+- Jane Bozarth on story and social learning — bozarthzone.com
+- Twine (free branching scenario authoring tool) — twinery.org

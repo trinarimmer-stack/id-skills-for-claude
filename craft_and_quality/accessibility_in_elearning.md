@@ -472,7 +472,7 @@ with the learning experience.
 
 ---
 
-## Common Accessibility Mistakes
+## Accessibility: Patterns Worth Examining
 
 - **Retrofitting accessibility** — treating it 
   as a final step rather than a design principle
@@ -562,18 +562,14 @@ of designing for the full range of
 human experience.
 
 ## References & Further Reading
-- Web Content Accessibility Guidelines (WCAG) 2.1 — 
-  w3.org/WAI/WCAG21/quickref
-- Universal Design for Learning Guidelines — 
-  cast.org/impact/universal-design-for-learning-udl
-- WebAIM (web accessibility in mind) — 
-  webaim.org
-- Section 508 Standards — section508.gov
-- *A Web for Everyone* — Sarah Horton & 
-  Whitney Quesenbery
+- *A Web for Everyone* — Sarah Horton & Whitney Quesenbery
 - *Accessibility for Everyone* — Laura Kalbag
-- Articulate Accessibility Resources — 
-  articulate.com/accessibility
+- Web Content Accessibility Guidelines (WCAG) 2.1 — w3.org/WAI/WCAG21/quickref
+- Universal Design for Learning Guidelines — cast.org/impact/universal-design-for-learning-udl
+- WebAIM (web accessibility in mind) — webaim.org
+- Section 508 Standards — section508.gov
+- Léonie Watson on accessible design — tink.uk
+- Marcy Sutton on accessibility and inclusion — marcysutton.com
+- Articulate Accessibility Resources — articulate.com/accessibility
 - NVDA Screen Reader — nvaccess.org
-- Deque University (accessibility training) — 
-  dequeuniversity.com
+- Deque University (accessibility training) — dequeuniversity.com

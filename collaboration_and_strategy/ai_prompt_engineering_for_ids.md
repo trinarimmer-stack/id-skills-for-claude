@@ -391,7 +391,7 @@ responsibility to ship better.
 
 ---
 
-## Common Prompt Engineering Mistakes
+## Prompt Engineering: Patterns Worth Examining
 
 - **Too vague** — *"Write a course about safety"* 
   produces unusable output
@@ -414,16 +414,10 @@ responsibility to ship better.
 ---
 
 ## References & Further Reading
-- *The Instructional Design Professional's Guide 
-  to AI* — emerging field; follow current 
-  practitioners for latest guidance
-- Anthropic Prompt Engineering Guide — 
-  docs.anthropic.com
-- OpenAI Prompt Engineering Guide — 
-  platform.openai.com/docs
-- Learning Guild research on AI in L&D — 
-  learningguild.com
-- Will Thalheimer on AI and learning effectiveness — 
-  willatworklearning.com
-- Connie Malamed (The eLearning Coach) on 
-  AI tools for IDs — theelearningcoach.com
+- Connie Malamed on AI tools for IDs — theelearningcoach.com
+- Cathy Moore on AI and performance-focused design — blog.cathy-moore.com
+- Jane Bozarth on AI in L&D practice — bozarthzone.com
+- Learning Guild research on AI in L&D — learningguild.com
+- Will Thalheimer on AI and learning effectiveness — willatworklearning.com
+- Anthropic Prompt Engineering Guide — docs.anthropic.com
+- OpenAI Prompt Engineering Guide — platform.openai.com/docs

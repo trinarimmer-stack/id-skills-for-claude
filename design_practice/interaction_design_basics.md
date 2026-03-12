@@ -7,8 +7,8 @@ meaningful exchanges between the learner and the content —
 moments that require the learner to think, decide, respond, 
 or reflect rather than passively consume. Done well, interactions 
 increase engagement, reinforce learning, and build the kind of 
-practiced judgment that transfers to the job. Done poorly, 
-they're busy work that adds clicks without adding value. 
+practiced judgment that transfers to the job. Done without intention, 
+they add clicks without adding value. 
 This skill helps Claude support instructional designers in 
 selecting, designing, and evaluating interactions that serve 
 genuine instructional purposes.
@@ -267,7 +267,7 @@ design become core skills.
 
 ---
 
-## Common Interaction Design Mistakes
+## Interaction Design: Patterns Worth Examining
 
 - **Interaction for its own sake** — adding interactions 
   because the course "needs to be more engaging" 
@@ -288,15 +288,11 @@ design become core skills.
 ---
 
 ## References & Further Reading
-- *e-Learning and the Science of Instruction* — 
-  Ruth Colvin Clark & Richard Mayer
 - *Design for How People Learn* — Julie Dirksen
 - *Map It* — Cathy Moore
-- *The Gamification of Learning and Instruction* — 
-  Karl Kapp
-- *Universal Design for Learning Guidelines* — 
-  CAST (cast.org)
-- Nielsen Norman Group — Interaction Design resources 
-  (nngroup.com)
-- Web Content Accessibility Guidelines (WCAG) — 
-  w3.org/WAI
+- *e-Learning and the Science of Instruction* — Ruth Colvin Clark & Richard Mayer
+- *The Gamification of Learning and Instruction* — Karl Kapp
+- *Universal Design for Learning Guidelines* — CAST (cast.org)
+- Connie Malamed on interaction design — theelearningcoach.com
+- Nielsen Norman Group — Interaction Design resources (nngroup.com)
+- Web Content Accessibility Guidelines (WCAG) — w3.org/WAI

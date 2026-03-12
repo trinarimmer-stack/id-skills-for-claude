@@ -2,7 +2,7 @@ markdown
 # Instructional Design Skill: Assessment Design
 
 ## Overview
-Assessment design is one of the most misunderstood and poorly executed 
+Assessment design is one of the most consequential — and most underinvested — 
 aspects of instructional design. Most workplace training assessments 
 measure whether someone sat through a course — not whether they can 
 perform on the job. This skill helps Claude support instructional 
@@ -152,7 +152,7 @@ what matters.
 
 ---
 
-## Common Assessment Design Mistakes
+## Assessment Design: Pitfalls Worth Knowing
 
 - **Designing assessments after the content** — objectives and 
   assessments should be designed first (backward design)
@@ -191,8 +191,12 @@ feedback modeling, and quality evaluation of AI-generated content.
 
 ## References & Further Reading
 - *Evidence-Based Training Methods* — Ruth Colvin Clark
-- *The Conditions of Learning* — Robert Gagné
 - *Building Expertise* — Ruth Colvin Clark
+- *Design for How People Learn* — Julie Dirksen
+- *Leaving ADDIE for SAM* — Michael Allen
+- *The Conditions of Learning* — Robert Gagné
 - Kirkpatrick's Four Levels of Training Evaluation
 - Bloom's Taxonomy (revised — Anderson & Krathwohl, 2001)
 - Wiggins & McTighe's Understanding by Design (backward design)
+- Patti Shank's research on assessment design — pattishank.com
+- Jane Bozarth on social and performance-based learning — bozarthzone.com

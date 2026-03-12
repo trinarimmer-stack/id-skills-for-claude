@@ -10,7 +10,7 @@ consult effectively with stakeholders — asking the right questions,
 managing expectations, pushing back thoughtfully, and building 
 trust — is what separates designers who get great work approved 
 from designers who spend their careers executing other people's 
-bad ideas. This skill helps Claude support instructional designers 
+underdeveloped ideas. This skill helps Claude support instructional designers 
 in navigating stakeholder relationships, conducting effective 
 consulting conversations, and positioning themselves as strategic 
 partners rather than order-takers.
@@ -335,7 +335,7 @@ are increasingly valuable strategic partners.
 
 ---
 
-## Common Stakeholder Management Mistakes
+## Stakeholder Management: Patterns Worth Examining
 
 - **Accepting the stated solution without diagnosis** — 
   building what's asked for instead of what's needed
@@ -357,11 +357,12 @@ markdown
 ---
 
 ## References & Further Reading
-- *Telling Ain't Training* — Harold Stolovitch & 
-  Erica Keeps
+- *First Things Fast* — Allison Rossett
 - *Performance Consulting* — Dana & James Robinson
+- *Telling Ain't Training* — Harold Stolovitch & Erica Keeps
 - *The Trusted Advisor* — Maister, Green & Galford
 - *Humble Inquiry* — Edgar Schein
-- *First Things Fast* — Allison Rossett
+- *Map It* — Cathy Moore (consulting through action mapping)
 - Gilbert's Behavior Engineering Model
 - Mager & Pipe's Performance Analysis flowchart
+- Jane Bozarth on working with SMEs and stakeholders — bozarthzone.com

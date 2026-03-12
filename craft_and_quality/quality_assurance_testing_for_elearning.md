@@ -496,7 +496,7 @@ post-launch review cycle:
 
 ---
 
-## Common QA Mistakes
+## QA: Patterns Worth Examining
 
 - **No QA plan** — testing happens ad hoc 
   and inconsistently
@@ -525,16 +525,12 @@ post-launch review cycle:
 ---
 
 ## References & Further Reading
-- *e-Learning and the Science of Instruction* — 
-  Ruth Colvin Clark & Richard Mayer
-- *The Checklist Manifesto* — Atul Gawande 
-  (not ID-specific, but essential reading 
-  on the value of systematic checklists)
-- SCORM and xAPI technical documentation — 
-  scorm.com / adlnet.gov
-- WebAIM WAVE accessibility checker — 
-  webaim.org/resources/wave
-- Articulate QA resources — 
-  community.articulate.com
-- Nielsen Norman Group usability testing 
-  resources — nngroup.com
+- *e-Learning and the Science of Instruction* — Ruth Colvin Clark & Richard Mayer
+- *The Checklist Manifesto* — Atul Gawande
+- *Design for How People Learn* — Julie Dirksen
+- Patti Shank on evidence-based quality in L&D — pattishank.com
+- Connie Malamed on course review and quality — theelearningcoach.com
+- SCORM and xAPI technical documentation — scorm.com / adlnet.gov
+- WebAIM WAVE accessibility checker — webaim.org/resources/wave
+- Articulate QA resources — community.articulate.com
+- Nielsen Norman Group usability testing resources — nngroup.com

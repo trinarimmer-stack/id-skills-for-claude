@@ -6,9 +6,9 @@ Behavior Change
 The ultimate goal of workplace learning is not 
 knowledge acquisition — it's behavior change. 
 A learner who can pass a quiz but doesn't perform 
-differently on the job represents a failed 
-intervention, regardless of how well the course 
-was designed. This skill helps Claude support 
+differently on the job is a signal worth listening to — 
+an invitation to examine whether the intervention 
+was designed for the right problem. This skill helps Claude support 
 instructional designers in understanding the 
 science of behavior change, selecting appropriate 
 models and frameworks, and designing learning 
@@ -474,7 +474,7 @@ earlier intervention.
 
 ---
 
-## Common Behavior Change Design Mistakes
+## Behavior Change Design: Patterns Worth Examining
 
 - **Treating knowledge transfer as 
   behavior change** — giving people 
@@ -505,20 +505,15 @@ earlier intervention.
 ---
 
 ## References & Further Reading
-- *The Behavior Change Wheel* — 
-  Susan Michie et al.
+- *The Behavior Change Wheel* — Susan Michie et al.
 - *Tiny Habits* — BJ Fogg
 - *Atomic Habits* — James Clear
 - *The Power of Habit* — Charles Duhigg
 - *Nudge* — Thaler & Sunstein
 - *Building Expertise* — Ruth Colvin Clark
-- *Performance Consulting* — 
-  Dana & James Robinson
-- Kirkpatrick Partners — 
-  kirkpatrickpartners.com
-- Will Thalheimer's research on 
-  learning transfer — 
-  willatworklearning.com
-- *Make It Stick* — Brown, Roediger 
-  & McDaniel (learning science 
-  applied to behavior change)
+- *Performance Consulting* — Dana & James Robinson
+- *Map It* — Cathy Moore (behavior-first design)
+- *Design for How People Learn* — Julie Dirksen
+- Kirkpatrick Partners — kirkpatrickpartners.com
+- Will Thalheimer's research on learning transfer — willatworklearning.com
+- *Make It Stick* — Brown, Roediger & McDaniel

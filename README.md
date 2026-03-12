@@ -69,9 +69,12 @@ you have to explain yourself to every time.
 | `quality_assurance_testing_for_elearning.md` | Functional, instructional, editorial, and accessibility QA; bug tracking; sign-off process |
 
 ### collaboration_and_strategy/
+Relationships are not supplementary to instructional design — they are foundational to it. This folder covers the human side of the work: the partnerships, communication, and community that determine whether great design actually reaches learners.
+
 | File | What It Covers |
 |---|---|
 | `stakeholder_management_performance_consulting.md` | Managing stakeholders, scope, pushback, and project dynamics |
+| `facilitation_and_cohort_learning.md` | Designing and facilitating group and cohort learning; psychological safety; virtual and hybrid facilitation |
 | `ai_prompt_engineering_for_ids.md` | Writing effective prompts for ID tasks, prompt frameworks, AI-assisted design workflows |
 
 ---

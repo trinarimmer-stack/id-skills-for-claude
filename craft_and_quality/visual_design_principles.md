@@ -587,7 +587,7 @@ markdown
 
 ---
 
-## Common Visual Design Mistakes
+## Visual Design: Patterns Worth Examining
 
 - **Death by bullet point** — walls of text 
   with no visual support
@@ -614,21 +614,16 @@ markdown
 ---
 
 ## References & Further Reading
-- *The Non-Designer's Design Book* — 
-  Robin Williams (essential reading)
-- *Universal Principles of Design* — 
-  Lidwell, Holden & Butler
-- *e-Learning and the Science of Instruction* — 
-  Ruth Colvin Clark & Richard Mayer
-- *Presentation Zen* — Garr Reynolds
+- *The Non-Designer's Design Book* — Robin Williams
 - *Slide:ology* — Nancy Duarte
-- *The Functional Art* — Alberto Cairo 
-  (data visualization)
-- Nielsen Norman Group visual design 
-  resources — nngroup.com
+- *Presentation Zen* — Garr Reynolds
+- *Universal Principles of Design* — Lidwell, Holden & Butler
+- *The Functional Art* — Alberto Cairo (data visualization)
+- *e-Learning and the Science of Instruction* — Ruth Colvin Clark & Richard Mayer
+- Connie Malamed on visual design for learning — theelearningcoach.com
+- *Visual Language for Designers* — Connie Malamed
+- Nielsen Norman Group visual design resources — nngroup.com
 - Canva Design School — canva.com/learn/design
 - Google Fonts — fonts.google.com
-- Coolors (color palette generator) — 
-  coolors.co
-- WebAIM Contrast Checker — 
-  webaim.org/resources/contrastchecker
+- Coolors (color palette generator) — coolors.co
+- WebAIM Contrast Checker — webaim.org/resources/contrastchecker

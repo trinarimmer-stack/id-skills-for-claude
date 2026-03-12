@@ -239,7 +239,7 @@ When reviewing or editing e-learning content, check for:
 ---
 
 markdown
-## Common Writing Mistakes in E-Learning
+## Writing Patterns Worth Unlearning
 
 - **The textbook dump** — copying source material directly 
   into the course without adapting it for the learner
@@ -299,10 +299,11 @@ When asking AI to write or rewrite e-learning content, specify:
 ---
 
 ## References & Further Reading
-- *E-Learning and the Science of Instruction* — 
-  Ruth Colvin Clark & Richard Mayer
 - *Design for How People Learn* — Julie Dirksen
-- *The Elements of Style* — Strunk & White
 - *Letting Go of the Words* — Ginny Redish
-- Hemingway Editor: hemingwayapp.com
-- Plain Language Guidelines: plainlanguage.gov
+- *e-Learning and the Science of Instruction* — Ruth Colvin Clark & Richard Mayer
+- *The Elements of Style* — Strunk & White
+- *Show Your Work* — Jane Bozarth (plain language for L&D)
+- Connie Malamed, The eLearning Coach — theelearningcoach.com
+- Hemingway Editor — hemingwayapp.com
+- Plain Language Guidelines — plainlanguage.gov

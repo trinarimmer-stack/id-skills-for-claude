@@ -4,7 +4,7 @@ markdown
 ## Overview
 Cognitive load theory is one of the most well-supported and 
 practically useful frameworks in instructional design. It explains 
-why learners get overwhelmed, why well-intentioned courses fail 
+why learners get overwhelmed, why well-intentioned courses struggle 
 to produce learning, and how thoughtful design can dramatically 
 improve retention and transfer. This skill helps Claude support 
 instructional designers in applying cognitive load principles 
@@ -256,7 +256,7 @@ the cognitive load lens in editing:
 
 ---
 
-## Common Cognitive Load Mistakes
+## Cognitive Load: Patterns Worth Recognizing
 
 - **Information dumping** — presenting everything 
   the SME knows rather than what the learner needs

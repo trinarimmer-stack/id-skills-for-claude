@@ -94,7 +94,7 @@ level of performance:
 
 ---
 
-## Common Mistakes to Avoid
+## Needs Analysis: What to Watch For
 - Accepting "we need a course" without questioning the diagnosis
 - Confusing awareness with behavior change
 - Writing objectives around content coverage rather than job performance
@@ -105,9 +105,12 @@ level of performance:
 ---
 
 ## References & Further Reading
-- *Analysis for Improving Performance* — Richard Swanson
 - *First Things Fast* — Allison Rossett
+- *Analysis for Improving Performance* — Richard Swanson
 - *The Six Disciplines of Breakthrough Learning* — Calhoun Wick et al.
-markdown
+- *Map It* — Cathy Moore (performance-focused design)
+- *Design for How People Learn* — Julie Dirksen
 - Gilbert's Behavior Engineering Model (BEM)
 - Mager & Pipe's Performance Analysis flowchart
+- Dana & James Robinson, *Performance Consulting*
+- Jane Bozarth on performance support — bozarthzone.com

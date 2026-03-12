@@ -2,8 +2,8 @@ markdown
 # Instructional Design Skill: Designing for Motivation
 
 ## Overview
-Even the most beautifully designed course fails if learners 
-don't engage with it. Motivation — the willingness to start, 
+Even the most carefully designed course goes unfinished if learners 
+don't connect with it. Motivation — the willingness to start, 
 persist, and apply learning — is not a given. It must be 
 designed for. This skill helps Claude support instructional 
 designers in understanding what drives learner motivation, 
@@ -320,7 +320,7 @@ their own motivation.
 
 ---
 
-## Common Motivational Design Mistakes
+## Motivational Design: Patterns Worth Examining
 
 - **Leading with objectives instead of relevance** — 
   telling learners what they'll learn before 
@@ -344,12 +344,13 @@ their own motivation.
 ---
 
 ## References & Further Reading
-- *Designing for How People Learn* — Julie Dirksen
-- *The Art and Science of Teaching* — Robert Marzano
-- *Drive* — Daniel Pink
+- *Design for How People Learn* — Julie Dirksen
 - *Mindset* — Carol Dweck
+- *Drive* — Daniel Pink
+- *The Art and Science of Teaching* — Robert Marzano
 - Keller's ARCS Model of Motivational Design
 - Self-Determination Theory — Deci & Ryan
 - Expectancy-Value Theory — Eccles et al.
-- Malone & Lepper's intrinsic motivation 
-  in learning research
+- Malone & Lepper's intrinsic motivation in learning research
+- Connie Malamed on learner engagement — theelearningcoach.com
+- Jane Bozarth on social learning and motivation — bozarthzone.com
