@@ -46,6 +46,17 @@ multi-file pairings for common project types.
 
 ---
 
+## ⚠️ One Important Note Before You Start
+Do not upload the `.md` files as attachments directly 
+into Claude.ai — this will produce an error. 
+These files are designed to be used as text content, 
+not file uploads.
+
+The methods below all work correctly. 
+Pick the one that fits your setup.
+
+---
+
 ## Step 2: Load the File into Claude
 
 ### Option A: Paste into Claude.ai (browser)
