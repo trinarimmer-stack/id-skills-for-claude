@@ -48,22 +48,52 @@ multi-file pairings for common project types.
 
 ## Step 2: Load the File into Claude
 
-### Option A: Claude.ai (browser)
+### Option A: Paste into Claude.ai (browser)
 1. Open a new conversation at claude.ai
 2. Open the skill file on GitHub
 3. Click **Raw** to see the plain text
 4. Select all → Copy
-5. Paste into the Claude message box
-6. Add your request after the pasted content
-7. Send
+5. Before pasting, add a framing line:
+   *"I'm going to share some background context 
+   about instructional design. Please read it 
+   and use it to inform your responses 
+   for the rest of this conversation."*
+6. Paste the skill file content after the framing line
+7. Add your request and send
 
-### Option B: Claude Projects (recommended)
-If you use Claude.ai with Projects:
+### Option B: Claude Projects + GitHub (recommended for Claude Pro users)
+This is the most powerful setup. Connect the GitHub repo 
+directly to a Claude Project and every skill file is 
+available in every conversation — automatically, 
+with no pasting required.
+
+**Setup (one time):**
+1. Go to claude.ai and click **Projects** in the left sidebar
+2. Create a new project — "ID Work" or whatever fits
+3. Inside the project, click **Add content**
+4. Choose **Connect to GitHub**
+5. Authorize Claude to access your GitHub account
+6. Search for and select `trinarimmer-stack/id-skills-for-claude`
+7. Claude will pull down the full repo as project knowledge
+
+That's it. Every conversation you start inside that project 
+has all 16 skill files loaded — no framing lines, 
+no copy-pasting, no re-explaining yourself.
+
+**The bonus:** When this repo is updated — new skill files added, 
+existing files improved, community contributions merged — 
+your project picks up the changes automatically. 
+The library gets smarter and so does your Claude.
+
+### Option C: Claude Projects (manual, no GitHub connection)
+If you use Claude.ai with Projects but prefer not to 
+connect GitHub:
 1. Create a project for your ID work
-2. Add skill files as project knowledge
-3. They'll be available in every 
+2. Click **Add content** and paste each skill file 
+   as a separate piece of project knowledge
+3. Skills will be available in every 
    conversation in that project — 
-   no pasting required
+   no re-pasting required
 
 ### Option C: API / Custom Tools
 If you're using Claude via API or 
