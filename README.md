@@ -1,4 +1,3 @@
-markdown
 # Instructional Design Skills for Claude
 
 A free, open-source collection of skill files 
@@ -44,35 +43,35 @@ you have to explain yourself to every time.
 
 ## The Skills
 
-### Foundations
+### foundations/
 | File | What It Covers |
 |---|---|
-| `needs-analysis-performance-consulting.md` | Diagnosing performance problems, determining whether training is the right solution, performance consulting frameworks |
-| `assessment-design.md` | Writing valid assessments, Bloom's Taxonomy, question types, alignment to objectives |
-| `writing-for-elearning.md` | Voice, tone, plain language, writing for the screen, narration scripts |
-| `strategies-for-managing-cognitive-load.md` | Cognitive load theory, working memory, instructional strategies that reduce extraneous load |
+| `needs_analysis_performance_consulting.md` | Diagnosing performance problems, determining whether training is the right solution, performance consulting frameworks |
+| `assessment_design.md` | Writing valid assessments, Bloom's Taxonomy, question types, alignment to objectives |
+| `writing_for_elearning.md` | Voice, tone, plain language, writing for the screen, narration scripts |
+| `strategies_for_managing_cognitive_load.md` | Cognitive load theory, working memory, instructional strategies that reduce extraneous load |
 
-### Design Practice
+### design_practice/
 | File | What It Covers |
 |---|---|
-| `scenario-based-learning.md` | Case-based and branching scenarios, realistic decision-making, consequence design |
-| `interaction-design-basics.md` | Interaction types, engagement design, meaningful vs. cosmetic interactivity |
-| `designing-for-motivation.md` | ARCS model, intrinsic/extrinsic motivation, relevance, learner engagement strategies |
-| `designing-for-behavior-change.md` | COM-B, Fogg's Behavior Model, habit formation, closing the knowing-doing gap |
-| `designing-for-skills-development.md` | Deliberate practice, novice-to-expert continuum, transfer design, tacit knowledge |
+| `scenario_based_learning.md` | Case-based and branching scenarios, realistic decision-making, consequence design |
+| `interaction_design_basics.md` | Interaction types, engagement design, meaningful vs. cosmetic interactivity |
+| `designing_for_motivation.md` | ARCS model, intrinsic/extrinsic motivation, relevance, learner engagement strategies |
+| `designing_for_behavior_change.md` | COM-B, Fogg's Behavior Model, habit formation, closing the knowing-doing gap |
+| `designing_for_skills_development.md` | Deliberate practice, novice-to-expert continuum, transfer design, tacit knowledge |
 
-### Craft and Quality
+### craft_and_quality/
 | File | What It Covers |
 |---|---|
-| `visual-design-principles.md` | CRAP principles, typography, color, layout, hierarchy, imagery for e-learning |
-| `accessibility-in-elearning.md` | WCAG, Universal Design for Learning, situational accessibility, testing, compliance |
-| `quality-assurance-testing.md` | Functional, instructional, editorial, and accessibility QA; bug tracking; sign-off process |
+| `visual_design_principles.md` | CRAP principles, typography, color, layout, hierarchy, imagery for e-learning |
+| `accessibility_in_elearning.md` | WCAG, Universal Design for Learning, situational accessibility, testing, compliance |
+| `quality_assurance_testing_for_elearning.md` | Functional, instructional, editorial, and accessibility QA; bug tracking; sign-off process |
 
-### Collaboration and Strategy
+### collaboration_and_strategy/
 | File | What It Covers |
 |---|---|
-| `stakeholder-management-performance-consulting.md` | Managing stakeholders, scope, pushback, and project dynamics |
-| `ai-prompt-engineering-for-ids.md` | Writing effective prompts for ID tasks, prompt frameworks, AI-assisted design workflows |
+| `stakeholder_management_performance_consulting.md` | Managing stakeholders, scope, pushback, and project dynamics |
+| `ai_prompt_engineering_for_ids.md` | Writing effective prompts for ID tasks, prompt frameworks, AI-assisted design workflows |
 
 ---
 
@@ -106,36 +105,35 @@ it without loading the full file.
 
 ## Example Prompts
 
-markdown
 Once you've loaded a skill file, 
 try prompts like these:
 
-**With `needs-analysis-performance-consulting.md`:**
+**With `needs_analysis_performance_consulting.md`:**
 > *"I have a stakeholder who wants a course 
 > on time management. Help me think through 
 > whether training is actually the right solution."*
 
-**With `scenario-based-learning.md`:**
+**With `scenario_based_learning.md`:**
 > *"Help me write a branching scenario 
 > for new managers who need to practice 
 > delivering difficult feedback."*
 
-**With `assessment-design.md`:**
+**With `assessment_design.md`:**
 > *"Review these five quiz questions 
 > and tell me whether they're testing 
 > application or just recall."*
 
-**With `accessibility-in-elearning.md`:**
+**With `accessibility_in_elearning.md`:**
 > *"Audit this course storyboard for 
 > accessibility issues I should 
 > address before development."*
 
-**With `quality-assurance-testing.md`:**
+**With `quality_assurance_testing_for_elearning.md`:**
 > *"Help me build a QA checklist 
 > for a branching scenario course 
 > I'm about to hand off to a client."*
 
-**With `designing-for-behavior-change.md`:**
+**With `designing_for_behavior_change.md`:**
 > *"My client wants a compliance course 
 > that actually changes behavior, not 
 > just checks a box. Where do I start?"*
@@ -182,7 +180,7 @@ Want to improve an existing file?
 Contributions are welcome. Please:
 - Follow the existing file structure 
   and formatting conventions
-- Use kebab-case filenames with 
+- Use snake_case filenames with 
   `.md` extension
 - One skill per file
 - Include a references section 
@@ -206,18 +204,9 @@ break into the field and helps organizations
 build learning experiences that actually work.
 
 - Website: [trinarimmer.com](https://trinarimmer.com)
-- Kickstart Guidebook: [trinarimmer.com/products](https://trinarimmer.com)
-
----
-
-## License
-
-MIT License. Use freely, adapt liberally, 
-share widely. Credit appreciated but not required.
+- Guidebook: [trinarimmer.com](https://trinarimmer.com)
 
 ---
 
 *Built for instructional designers 
 who want AI that understands their craft.*
----
-
