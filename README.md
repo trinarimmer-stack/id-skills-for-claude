@@ -16,14 +16,14 @@ not just a content generator.
 ## What This Is
 
 These are not prompts. They are **skill files** — 
-structured knowledge documents that teach Claude 
+structured knowledge documents written to teach Claude 
 how instructional designers think, what frameworks 
 they use, and what good work looks like in 
 each domain.
 
 Load one (or several) into your AI assistant's 
 context, and Claude becomes a collaborator 
-who understands your craft — not a tool 
+who understands your craft; not just a tool 
 you have to explain yourself to every time.
 
 ---
