@@ -86,11 +86,11 @@ Relationships are not supplementary to instructional design — they are foundat
 
 ## How to Use These Files
 
-> **⚠️ Important:** Do not upload the `.md` files as attachments 
-> directly into Claude.ai — this will produce an error. 
-> These files are designed to be used as text content. 
-> Paste the raw text, or connect the repo via Claude Projects. 
-> See `USAGE_GUIDE.md` for full instructions.
+> **⚠️ Two different upload contexts — two different rules:**
+> - **Regular chats:** Do not upload `.md` files as attachments — this produces an error. Paste the raw text instead.
+> - **Claude Projects:** Uploading `.md` files as Project Knowledge works correctly and is the recommended approach.
+> 
+> See `USAGE_GUIDE.md` for full setup instructions.
 
 ### Option 1: Paste into context
 Copy the contents of any skill file 

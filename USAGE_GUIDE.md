@@ -47,10 +47,14 @@ multi-file pairings for common project types.
 ---
 
 ## ⚠️ One Important Note Before You Start
-Do not upload the `.md` files as attachments directly 
-into Claude.ai — this will produce an error. 
-These files are designed to be used as text content, 
-not file uploads.
+**For regular one-off chats:** Do not upload `.md` files 
+as attachments — this will produce an error. 
+Use the paste method (Option A) instead.
+
+**For Claude Projects:** Uploading `.md` files works 
+correctly and is the recommended approach (Option B). 
+Project Knowledge is a different mechanism 
+from chat attachments.
 
 The methods below all work correctly. 
 Pick the one that fits your setup.
@@ -73,30 +77,48 @@ Pick the one that fits your setup.
 7. Add your request and send
 
 ### Option B: Claude Projects (recommended for Claude Pro users)
-This is the most efficient setup for regular use. 
-Add the skill files to a Claude Project as project knowledge 
-and they'll be available in every conversation — 
-no re-pasting required.
+This is the cleanest, most persistent setup. 
+Claude Projects lets you upload skill files directly 
+as Project Knowledge — no pasting required, 
+and they're available in every conversation 
+in that project.
+
+> **Important distinction:** The warning elsewhere 
+> in this guide about not uploading `.md` files 
+> applies to *regular one-off chats only*. 
+> Claude Projects handles `.md` file uploads 
+> correctly — this is the right place to use them.
 
 **Setup (one time):**
-1. Go to claude.ai and click **Projects** in the left sidebar
-2. Create a new project — "ID Work" or whatever fits
-3. For each skill file you want to include:
-   - Open the file on GitHub
-   - Click **Raw** to see the plain text
-   - Select all → Copy
-   - Inside your project, click **Add content**
-   - Paste the file content and give it a recognizable name
-4. Repeat for as many skill files as you want
+1. Go to claude.ai and click **Projects** 
+   in the left sidebar
+2. Create a new project — 
+   *"ID Work"* or whatever fits your workflow
+3. Download the skill files you want from GitHub 
+   (or the whole repo as a ZIP — 
+   click **Code → Download ZIP**)
+4. Inside your project, click **Add content** 
+   → **Upload files**
+5. Upload the `.md` files you want — 
+   Claude will index them as Project Knowledge
+6. In **Project Instructions**, add this activating prompt:
 
-Every conversation you start inside that project 
-has those skill files loaded — no framing lines, 
-no copy-pasting, no re-explaining yourself.
+   > *"You have access to instructional design 
+   > skill files in your Project Knowledge. 
+   > Reference them when relevant to my requests."*
 
-**Which files to add:** You don't need all 16. 
-Start with the skills you reach for most often. 
-See `COMBINATIONS.md` for suggestions based on 
-the type of work you do most.
+7. That's it — every conversation in this project 
+   has full access to your skill files
+
+**Which files to add:** You don't need all of them. 
+Start with the skills you reach for most. 
+See `COMBINATIONS.md` for suggestions by project type.
+
+**Want even more control?** For skills you use 
+on every project, paste the file content directly 
+into **Project Instructions** (the system prompt). 
+This makes Claude reference those skills proactively 
+rather than only when asked.
 
 ### Option C: API / Custom Tools
 If you're using Claude via API or 
