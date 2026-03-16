@@ -329,6 +329,103 @@ from intentional, specific design choices.
 
 ---
 
+## When No Character System Exists Yet
+
+One of the most common failures in AI-assisted e-learning development
+occurs not during character design—but before it. When an AI is asked
+to build or prototype a learning experience and no character system
+has been specified or approved, it will default to whatever asset is
+nearest to hand: an emoji, an icon-library figure, a clip-art style
+placeholder, or a generic avatar that was never designed for
+instructional use.
+
+This is not a character design decision. It is a gap-filling behavior
+that produces results that range from visually inconsistent to actively
+distracting—and that can undermine an otherwise strong prototype or
+demo.
+
+**The right behavior when no character system exists is to surface
+the gap, not fill it silently.**
+
+### What to Do When Characters Are Not Ready
+
+**Option 1: Named placeholder block**
+Use a clearly labeled placeholder—a simple shape or box with the
+character's name and role—rather than substituting an inappropriate
+asset. This communicates that character design is a pending design
+decision, not an oversight.
+
+Example label: *[Character placeholder: Sarah Chen, Customer Service
+Rep — to be replaced with approved character asset]*
+
+This keeps the prototype honest. Reviewers know what they are
+evaluating and what is still to come.
+
+**Option 2: Approved placeholder library**
+If a visual placeholder is needed for presentation purposes,
+draw only from vetted, purpose-built illustration systems:
+
+- **Open Peeps** (openpeeps.com) — hand-drawn style, open source,
+  designed for mix-and-match representation
+- **Humaaans** (humaaans.com) — flat vector style, open source,
+  explicitly designed for diverse representation
+
+Do not substitute emoji figures, icon-library silhouettes, generic
+avatar generators, or any asset not designed for instructional
+character use. These signal a lack of design intention and distract
+reviewers from evaluating the instructional content.
+
+**Option 3: Flag the dependency explicitly**
+In any prototype or build deliverable, include a clear note that
+the character system is a pending design requirement. This sets
+accurate expectations and prevents placeholder assets from
+traveling further than the prototype stage.
+
+Example note: *"Character assets in this prototype are temporary
+placeholders. Final character design requires a complete character
+specification including visual style, diversity brief, and
+consistency review before development."*
+
+### Why This Matters Beyond Aesthetics
+
+An inappropriate placeholder character does more than look wrong.
+It:
+
+- Distracts stakeholders and reviewers from evaluating the
+  instructional design—which is what the prototype is actually for
+- Signals a lack of design intentionality that can undermine
+  confidence in the overall project
+- Risks traveling beyond the prototype stage if the gap isn't
+  named clearly
+- Makes it harder to evaluate whether the character interaction
+  design (emotional states, poses, placement) is working—because
+  the placeholder can't demonstrate those qualities
+
+The instructional content of the screen in the example above may
+be excellent. A distracting or inappropriate character makes that
+impossible to evaluate fairly.
+
+### The Missing Specification Problem
+
+If an AI building a learning experience has not been given a
+character specification, it should ask for one—not proceed with
+whatever is available. A complete character specification includes:
+
+- Visual style (photorealistic, flat vector, hand-drawn, comic,
+  cartoon)
+- Diversity brief (naming, physical representation, gender/role
+  distribution)
+- Emotional state requirements (which states are needed for
+  this scenario)
+- Approved asset source or generation approach
+- Consistency evaluation process
+
+Without this specification, character design cannot proceed
+intentionally. Surfacing this gap is better design practice than
+filling it with an inappropriate substitute.
+
+---
+
 ## Character Design: Patterns Worth Examining
 
 - **The default character**—generating characters without explicit
@@ -371,6 +468,22 @@ from intentional, specific design choices.
   fixed attributes. They must not change between renders of the
   same character. Changing a character's clothing between scenes
   signals a different character or breaks continuity.
+
+- **Defaulting to available assets**—when no character system
+  has been specified, substituting whatever asset is nearest
+  to hand (emoji figures, icon-library silhouettes, generic
+  avatars) rather than surfacing the gap. This produces
+  characters that were never designed for instructional use
+  and that distract from evaluating the actual design work.
+  The correct response when no character specification exists
+  is to flag the dependency, not fill it silently.
+
+- **Silent gap-filling**—proceeding with character development
+  without a complete character specification rather than
+  asking for one. An AI building a learning experience that
+  has not been given a character specification should request
+  one—visual style, diversity brief, emotional state
+  requirements, and approved asset source—before proceeding.
 
 ---
 
