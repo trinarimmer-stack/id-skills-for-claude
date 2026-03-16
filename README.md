@@ -47,19 +47,22 @@ you have to explain yourself to every time.
 | File | What It Covers |
 |---|---|
 | `needs_analysis_performance_consulting.md` | Diagnosing performance problems, determining whether training is the right solution, performance consulting frameworks |
-| `assessment_design.md` | Writing valid assessments, Bloom's Taxonomy, question types, alignment to objectives |
-| `writing_for_elearning.md` | Voice, tone, plain language, writing for the screen, narration scripts |
+| `needs_analysis_reading_the_room.md` | Reading organizational dynamics, decoding stakeholder communication, the human perception layer of needs analysis, delivering inconvenient findings |
+| `when_not_to_design.md` | Recognizing non-training solutions, the is-it-really-a-training-problem test, job aids vs. courses, writing the no-course recommendation |
+| `assessment_design.md` | Writing valid assessments, Bloom's Taxonomy, question types, alignment to objectives, AI-generated item failure modes |
+| `writing_for_elearning.md` | Voice, tone, plain language, writing for the screen, narration scripts, humor and levity as a design tool |
 | `strategies_for_managing_cognitive_load.md` | Cognitive load theory, working memory, instructional strategies that reduce extraneous load |
 | `id_models_and_methodologies.md` | ADDIE, SAM, Action Mapping, Gagne's Nine Events, Bloom's Taxonomy, Merrill's First Principles, Kirkpatrick-Phillips, 70-20-10 |
 
 ### design_practice/
 | File | What It Covers |
 |---|---|
-| `scenario_based_learning.md` | Case-based and branching scenarios, realistic decision-making, consequence design |
-| `interaction_design_basics.md` | Interaction types, engagement design, meaningful vs. cosmetic interactivity |
+| `scenario_based_learning.md` | Case-based and branching scenarios, realistic decision-making, consequence design, LLM distractor failure modes |
+| `interaction_design_basics.md` | Interaction types, engagement design, meaningful vs. cosmetic interactivity, naming the experience not the mechanism |
 | `designing_for_motivation.md` | ARCS model, intrinsic/extrinsic motivation, relevance, learner engagement strategies |
 | `designing_for_behavior_change.md` | COM-B, Fogg's Behavior Model, habit formation, closing the knowing-doing gap |
 | `designing_for_skills_development.md` | Deliberate practice, novice-to-expert continuum, transfer design, tacit knowledge |
+| `culturally_situated_scenario_writing.md` | Cultural texture beyond surface diversity, communication styles, hierarchy, regulatory context, cross-cultural scenario design, working with AI on culturally specific content |
 
 ### craft_and_quality/
 | File | What It Covers |
@@ -68,6 +71,7 @@ you have to explain yourself to every time.
 | `accessibility_in_elearning.md` | WCAG, Universal Design for Learning, situational accessibility, testing, compliance |
 | `quality_assurance_testing_for_elearning.md` | Functional, instructional, editorial, and accessibility QA; bug tracking; sign-off process |
 | `character_design_for_elearning.md` | Visual style spectrum (photorealistic, flat vector, hand-drawn, comic, cartoon); character consistency across renders; inclusive representation including naming, hair, facial features, age, gender/role distribution, and professional clothing diversity; AI generation constraints; the reference image anchor technique |
+| `designing_for_sensitive_topics.md` | Tone calibration for DEI, harassment, mental health, ethics, and crisis content; the empathy-utility balance; levity as a design tool; process guidance for sensitive content projects |
 
 ### tools/
 | File | What It Covers |
@@ -82,6 +86,7 @@ Relationships are not supplementary to instructional design — they are foundat
 | `stakeholder_management_performance_consulting.md` | Managing stakeholders, scope, pushback, and project dynamics |
 | `facilitation_and_cohort_learning.md` | Designing and facilitating group and cohort learning; psychological safety; virtual and hybrid facilitation |
 | `ai_prompt_engineering_for_ids.md` | Writing effective prompts for ID tasks, prompt frameworks, AI-assisted design workflows |
+| `industry_specific_design_considerations.md` | LLM failure modes and design guidance for healthcare, financial services, legal, government, manufacturing/safety, education, and nonprofit verticals; expert review requirements; industry-specific prompting guidance |
 
 ---
 
@@ -148,6 +153,21 @@ try prompts like these:
 > *"Help me build a QA checklist 
 > for a branching scenario course 
 > I'm about to hand off to a client."*
+
+**With `needs_analysis_reading_the_room.md`:**
+> *"I have a discovery meeting with a stakeholder tomorrow who has already decided they want a compliance course. Help me think through what questions to ask and what to listen for beyond what they tell me directly."*
+
+**With `when_not_to_design.md`:**
+> *"My needs analysis is suggesting the performance gap isn't really a training problem. Help me build the case for a different solution and draft a recommendation I can bring to the stakeholder."*
+
+**With `culturally_situated_scenario_writing.md`:**
+> *"I'm designing a management training scenario for a financial services team in Singapore. Help me think through the cultural dimensions I need to get right and what I should verify with a cultural reviewer."*
+
+**With `designing_for_sensitive_topics.md`:**
+> *"I'm building harassment prevention training and I want it to actually prepare people for real situations—not just check a compliance box. Where do I start?"*
+
+**With `industry_specific_design_considerations.md`:**
+> *"I'm designing clinical training for nurse practitioners in an acute care setting. What do I need to know about this vertical before I start, and what should I flag for SME review?"*
 
 **With `character_design_for_elearning.md`:**
 > *"I need to generate a set of characters for a branching scenario. Help me write a character specification that will keep them visually consistent across multiple emotional states and poses — and make sure the cast reflects the diversity of the real workforce."*
