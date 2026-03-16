@@ -282,6 +282,7 @@ design become core skills.
 - **Prototype-skipping** — building complex interactions 
   without validating the design first
 - **Testing recall instead of application** — 
+- **Naming the mechanism, not the experience**—labeling learner-facing interactions "Branching Scenario," "Knowledge Check," or "Module Quiz" breaks immersion and frames the experience as a training artifact rather than a realistic situation. Titles visible to learners should name the experience, not the template type. "The Case of the Angry Customer" creates investment and context. "Branching Scenario" does not.
   interactions that ask "what did we just cover?" 
   rather than "what would you do?"
 

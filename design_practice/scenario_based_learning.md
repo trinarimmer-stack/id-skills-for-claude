@@ -250,8 +250,7 @@ The more specific the prompt, the more usable the output.
 
 - **The "gotcha" scenario** — deliberately obscure or 
   trick questions that frustrate rather than develop judgment
-- **Telegraphed correct answers** — one choice is obviously 
-  right, making the scenario a formality rather than practice
+- **Telegraphed correct answers**—one choice is obviously right, making the scenario a formality rather than practice. This is especially common when using AI to generate branching choices: the model defaults to one thorough, professional option and two choices that are shorter, more reactive, or more extreme. The fix belongs in the generation prompt, not the editing pass. Instruct AI explicitly: make all options similar in length, ensure each distractor reflects a coherent but flawed mental model, and rotate the position of the correct answer across decision nodes
 - **Feedback that lectures** — wrong answer feedback that 
   dumps information instead of showing consequences
 - **Unrealistic stakes** — scenarios where nothing important 
@@ -262,6 +261,7 @@ The more specific the prompt, the more usable the output.
   without a structural plan leads to narrative dead ends 
   and inconsistencies
 - **Generic characters** — learners disengage from 
+- **Naming the mechanism, not the experience**—labeling an interaction "Branching Scenario" or "Knowledge Check" at the learner-facing level breaks immersion and frames the experience as a training artifact rather than a realistic situation. Learner-facing titles should name the experience, not the template. "The Case of the Angry Customer" creates investment. "Branching Scenario" does not.
   characters they can't recognize or relate to
 
 ---

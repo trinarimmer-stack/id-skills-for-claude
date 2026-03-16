@@ -114,6 +114,20 @@ markdown
 > c) Suggest they take the course anyway to refresh their knowledge
 > d) Escalate to their manager
 
+
+### A Note on AI-Generated Assessment Items
+
+AI models have absorbed enough instructional design convention to recognize that correct answers tend to be thorough, balanced, and professional—and write distractors as the logical opposites: shorter, more extreme, more emotionally reactive. The result is a test that measures reading comprehension, not decision-making skill. A learner can identify the correct answer without understanding anything about the domain.
+
+When using AI to generate assessment items, apply these constraints explicitly in your prompt:
+
+- All options should be approximately the same length
+- Distractors must be plausible to a reasonable but undertrained person—not obviously wrong
+- The correct answer should not always appear first; randomize or rotate position across items
+- Each wrong choice should represent a coherent but flawed mental model, not just a worse version of the correct answer
+
+Evaluate every AI-generated item against these four criteria before use. If a learner could identify the correct answer without domain knowledge, the item is not doing its job.
+
 ### Scenario-Based Items
 The most effective format for performance-based assessment.
 
