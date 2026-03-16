@@ -67,6 +67,7 @@ you have to explain yourself to every time.
 | `visual_design_principles.md` | CRAP principles, typography, color, layout, hierarchy, imagery for e-learning |
 | `accessibility_in_elearning.md` | WCAG, Universal Design for Learning, situational accessibility, testing, compliance |
 | `quality_assurance_testing_for_elearning.md` | Functional, instructional, editorial, and accessibility QA; bug tracking; sign-off process |
+| `character_design_for_elearning.md` | Visual style spectrum (photorealistic, flat vector, hand-drawn, comic, cartoon); character consistency across renders; inclusive representation including naming, hair, facial features, age, gender/role distribution, and professional clothing diversity; AI generation constraints; the reference image anchor technique |
 
 ### tools/
 | File | What It Covers |
@@ -147,6 +148,9 @@ try prompts like these:
 > *"Help me build a QA checklist 
 > for a branching scenario course 
 > I'm about to hand off to a client."*
+
+**With `character_design_for_elearning.md`:**
+> *"I need to generate a set of characters for a branching scenario. Help me write a character specification that will keep them visually consistent across multiple emotional states and poses — and make sure the cast reflects the diversity of the real workforce."*
 
 **With `designing_for_behavior_change.md`:**
 > *"My client wants a compliance course 
