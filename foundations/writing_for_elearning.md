@@ -307,3 +307,79 @@ When asking AI to write or rewrite e-learning content, specify:
 - Connie Malamed, The eLearning Coach — theelearningcoach.com
 - Hemingway Editor — hemingwayapp.com
 - Plain Language Guidelines — plainlanguage.gov
+
+---
+
+## Humor and Levity in E-Learning Writing
+
+Humor is one of the most powerful and most mishandled tools
+in e-learning writing. Used well, it builds rapport, releases
+tension, and makes difficult or dry material feel human.
+Used poorly, it falls flat, alienates learners, or trivializes
+content that deserves weight.
+
+LLMs produce humor that tends toward generic wordplay,
+forced puns, or tonal mismatch. Effective levity in e-learning
+requires calibration that comes from understanding the specific
+audience, subject matter, and emotional register of the content.
+
+### When Levity Works
+
+- **Dry, procedural, or compliance-heavy content** — a moment
+  of wit in an otherwise earnest compliance course signals
+  that a real person wrote this and earns the learner's goodwill
+- **As a tension release** — after a difficult scenario or
+  emotionally demanding section, a lighter moment lets learners
+  breathe before continuing
+- **To signal voice and personality** — humor that is specific
+  and genuine communicates the designer's humanity and makes
+  the learning experience feel less institutional
+- **In the frame, not the content** — levity in instructional
+  context or scenario setup can coexist with serious content
+
+### When Levity Does Not Work
+
+- **Sensitive or trauma-adjacent content** — humor that
+  minimizes harm or trivializes real experience damages
+  trust and disrespects the subject
+- **Before trust is established** — humor that arrives before
+  the learner has reason to trust the course often reads
+  as flippant
+- **At the expense of learners** — jokes that make the
+  learner feel mocked, even gently, create resistance
+- **Forced or generic** — a pun that does not land is worse
+  than no pun; generic humor signals the designer filled
+  space rather than made a choice
+
+### Writing Levity That Works
+
+**Be specific, not generic**
+Generic humor ("Learning can be fun!") signals effort without
+landing anything. Specific humor—a well-observed detail about
+a recognizable workplace situation, an unexpected word choice,
+a dry observation—demonstrates that the writer knows the audience.
+
+**Let it come from voice, not jokes**
+The most durable humor in e-learning writing comes from voice—
+a slightly wry narrator, a scenario character with a dry
+observation, a moment of understatement—rather than constructed
+jokes. Voice-based humor is harder to write but more forgiving
+when it lands softly.
+
+**Punch sideways or up, never down**
+Humor that targets people with less power, experience, or
+confidence than the implied default learner alienates the
+people you most need to reach. Humor that targets institutional
+absurdity, bureaucratic frustration, or shared professional
+experience builds community.
+
+**Earn the moment**
+Levity that arrives after the course has established credibility
+and demonstrated care for the learner reads as a reward.
+Levity that arrives before any of that reads as avoidance.
+
+**Test it**
+Humor is the element of e-learning writing most likely to land
+differently across audience segments. Test levity with members
+of the actual learner population—not just with colleagues—
+before publishing.
