@@ -84,6 +84,31 @@ and Level 4 success looks like *before* designing the course.
 ### Multiple Choice — Best Practices
 Multiple choice is the most common and most abused assessment format.
 
+**Writing the Stem (the Question)**
+
+The stem carries most of the cognitive weight. A well-constructed
+stem makes the problem clear before the learner reads a single
+answer option.
+
+- **Put the main idea in the stem.** When most of the words live
+  in the question rather than the answer choices, options can be
+  short and unambiguous — reducing cognitive load and confusion.
+- **Use a direct question format.** "Which of the following best
+  describes..." is cleaner and less ambiguous than an incomplete
+  statement that learners must mentally complete.
+- **One problem per item.** Each question should target one
+  specific concept so the answer is either clearly right or
+  clearly wrong. Compound stems produce compound confusion.
+- **Avoid unintentional cues.** The stem should not hint at the
+  correct option through grammatical agreement, key word repetition,
+  or logical elimination.
+- **Avoid double negatives.** "Which of the following would NOT
+  be unwelcome..." is harder to parse than "Which of the following
+  is acceptable..." Rewrite in the positive form wherever possible.
+- **Be precise.** Words carry different meanings in different
+  contexts. Ambiguity in the stem produces ambiguity in responses
+  — and invalid data about what learners actually know.
+
 **Do:**
 - Write one clearly correct answer and plausible distractors
 - Base distractors on common misconceptions or errors
@@ -95,6 +120,37 @@ Multiple choice is the most common and most abused assessment format.
 - Write trick questions or deliberately confusing stems
 - Make the correct answer obviously longer or more qualified
 - Test trivial facts or content that doesn't matter on the job
+
+**On the number of options**
+Three options — one correct answer and two distractors — is
+usually optimal. Research (Rodriguez, 2005) consistently shows
+that adding a fourth or fifth option typically produces
+implausible distractors rather than improving measurement
+quality. More options also increase cognitive load without
+improving reliability. Three is not a shortcut; it is the
+evidence-based recommendation.
+
+**Ordering answer choices**
+When options are numeric, chronological, or alphabetical —
+order them logically. This reduces irrelevant difficulty
+and keeps cognitive load focused on the content rather than
+the structure. For all other option types, randomize order
+across items to avoid position bias (learners who guess
+tend to favor middle options).
+
+**A sophisticated distractor technique**
+A distractor does not have to be factually wrong — it can
+be a true statement that simply does not answer the specific
+question asked. This technique produces highly plausible
+distractors that distinguish learners who understand the
+nuance from those who recognize only surface-level accuracy.
+
+**Adding brief justifications to correct answers**
+Where feasible, include a brief explanation with the correct
+answer — not just the wrong ones. Evidence suggests this
+improves performance and can reveal when learners chose
+correctly for the wrong reasons, which matters for high-stakes
+or diagnostic assessments.
 
 **Weak item:**
 > *Which of the following is a characteristic of andragogy?*
@@ -148,6 +204,26 @@ Particularly valuable when combined with AI-powered feedback.
 - Reveals depth of understanding that multiple choice cannot
 - Requires a rubric or AI feedback model to score consistently
 - Best used for higher-order skills: analysis, evaluation, synthesis
+
+---
+
+## The Test Blueprint
+
+Before writing individual items, plan the assessment against
+a specification table — a simple map of objectives to items
+that ensures:
+
+- Every important objective is assessed
+- No objective is over-assessed at the expense of others
+- Item types match the cognitive level of each objective
+- The assessment as a whole reflects the actual priorities
+  of the learning experience
+
+A blueprint prevents the most common assessment design failure:
+a test that drifts toward what is easy to measure rather than
+what matters to measure. It also makes gap analysis easier —
+if you cannot write a valid item for an objective, that may
+signal a problem with the objective itself.
 
 ---
 
@@ -214,3 +290,5 @@ feedback modeling, and quality evaluation of AI-generated content.
 - Wiggins & McTighe's Understanding by Design (backward design)
 - Patti Shank's research on assessment design — pattishank.com
 - Jane Bozarth on social and performance-based learning — bozarthzone.com
+- Connie Malamed on multiple choice question design — theelearningcoach.com
+- Rodriguez, M.C. (2005). Three options are optimal for multiple-choice items. *Journal of Educational Measurement.*
