@@ -366,31 +366,100 @@ Rise excels at:
 
 ---
 
-## Trivantis Lectora
+## Trivantis Lectora Suite
 
-### What It Is
-Lectora is a slide-based e-learning authoring 
-tool with a long history in the industry — 
-particularly strong in regulated industries 
-(healthcare, pharmaceutical, government, 
-financial services) where Section 508 
-compliance, SCORM reliability, and 
-audit trails matter most. It offers 
-more granular accessibility controls 
-than either Storyline or Rise, 
-and has historically been the tool 
-of choice for organizations with 
+### The Trivantis Product Family
+
+Trivantis offers three distinct products.
+Understanding which one is in use matters
+because their capabilities, licensing,
+and delivery contexts differ significantly.
+
+**Lectora Desktop**
+The original, installed Windows application.
+Slide-based authoring with the most
+granular control over accessibility,
+SCORM output, and conditional logic.
+Preferred in organizations with strict
+IT governance, air-gapped environments,
+or legacy LMS infrastructure that requires
+predictable SCORM behavior. Not cloud-based —
+projects live on the author's machine or
+a shared network drive.
+
+**Lectora Online**
+The cloud-based version of Lectora.
+Functionally similar to Lectora Desktop
+but accessed via browser, with the addition
+of real-time multi-author collaboration
+and responsive design output. The version
+most commonly referenced in current job
+postings and vendor documentation.
+Where "Lectora" is mentioned without
+qualification in this file, Lectora Online
+is the primary reference unless otherwise noted.
+
+**CenarioVR**
+Trivantis's 360° video and virtual reality
+authoring tool. Allows designers to create
+immersive, branching 360° experiences
+without coding — hotspots, decision points,
+and scored interactions can be layered onto
+360° video or photospheres. Publishes to
+web, mobile, and VR headset formats.
+Integrates with Lectora and reports via xAPI.
+
+CenarioVR is the right tool when:
+- The learning context benefits from
+  spatial orientation or environmental
+  familiarity (safety walkthroughs,
+  facility orientation, procedural training
+  in complex physical environments)
+- 360° video of a real environment is
+  available or can be produced
+- The organization has VR headsets or
+  wants mobile-based immersive delivery
+- xAPI reporting on immersive experiences
+  is required
+
+CenarioVR is not the right tool when:
+- Standard scenario-based or knowledge
+  check interactions will serve the
+  learning objective equally well
+- 360° video production is not feasible
+- The learner population has accessibility
+  needs that VR/360° formats cannot meet
+
+### What Lectora (Desktop and Online) Is
+Lectora is a slide-based e-learning authoring
+tool with a long history in the industry —
+particularly strong in regulated industries
+(healthcare, pharmaceutical, government,
+financial services) where Section 508
+compliance, SCORM reliability, and
+audit trails matter most. It offers
+more granular accessibility controls
+than either Storyline or Rise,
+and has historically been the tool
+of choice for organizations with
 strict compliance requirements.
 
 ### Publishing Formats
+**Lectora Desktop and Online:**
 - HTML5 (all modern browsers)
 - SCORM 1.2
 - SCORM 2004
 - xAPI (Tin Can)
 - AICC
 - Section 508-compliant output
-- Responsive design (Lectora Online)
-- CD/offline (legacy — less common)
+- Responsive design (Lectora Online only)
+- CD/offline (Lectora Desktop legacy — less common)
+
+**CenarioVR:**
+- Web (HTML5, mobile browser)
+- xAPI
+- VR headset formats (Oculus, HTC Vive)
+- Mobile app delivery
 
 ### Natively Supported Interaction Types
 
@@ -501,17 +570,20 @@ is audited.
   are functional but less fluid than 
   Storyline's
 
-### What Is Not Possible in Lectora
-- **Truly responsive layout** — 
-  Lectora Online offers responsive design 
+### What Is Not Possible in Lectora Desktop or Online
+- **Truly responsive layout** —
+  Lectora Online offers responsive design
   but it is not as seamless as Rise
-- **Native AI integration** — 
-  no built-in AI response or 
+- **Native AI integration** —
+  no built-in AI response or
   adaptive engine
-- **360° video** — not natively supported
-- **Built-in branching scenario templates** — 
-  unlike Rise's scenario block, 
-  branching must be built manually 
+- **360° video** — not supported in
+  Lectora Desktop or Online; use
+  CenarioVR (separate Trivantis product)
+  for 360° and VR experiences
+- **Built-in branching scenario templates** —
+  unlike Rise's scenario block,
+  branching must be built manually
   via the action/condition system
 
 ### Accessibility in Lectora
@@ -531,13 +603,26 @@ compliance will be formally audited,
 Lectora is the most defensible choice.
 
 ### Lectora's Sweet Spot
-Lectora excels at:
-- Regulated industry training 
-  (healthcare, pharma, government, 
+Lectora Desktop and Online excel at:
+- Regulated industry training
+  (healthcare, pharma, government,
   financial services)
-- Formally audited Section 508 
+- Formally audited Section 508
   or WCAG compliance requirements
 - Large team, multi-author projects
+  (Lectora Online specifically)
+- Enterprise LMS environments requiring
+  rock-solid SCORM reliability
+- Complex conditional logic without
+  custom JavaScript
+
+CenarioVR excels at:
+- Safety and procedural training in
+  physical environments
+- Facility and spatial orientation
+- Any context where "being there"
+  accelerates learning in ways a
+  standard course cannot replicate
 - Complex conditional logic without 
   custom code
 - Enterprise LMS environments with 
