@@ -46,6 +46,7 @@ you have to explain yourself to every time.
 ### foundations/
 | File | What It Covers |
 |---|---|
+| `ai_partnership_in_id_work.md` | **Load this first.** Foundational AI partner posture—the designer is the designer, AI is the thought partner; when to ask vs. generate; feedback format; what good coaching looks like in practice |
 | `needs_analysis_performance_consulting.md` | Diagnosing performance problems, determining whether training is the right solution, performance consulting frameworks |
 | `needs_analysis_reading_the_room.md` | Reading organizational dynamics, decoding stakeholder communication, the human perception layer of needs analysis, delivering inconvenient findings |
 | `when_not_to_design.md` | Recognizing non-training solutions, the is-it-really-a-training-problem test, job aids vs. courses, writing the no-course recommendation |
@@ -153,6 +154,9 @@ try prompts like these:
 > *"Help me build a QA checklist 
 > for a branching scenario course 
 > I'm about to hand off to a client."*
+
+**With `ai_partnership_in_id_work.md`:**
+> *"I'm about to start a new course design project and I want you to function as a genuine thought partner — not just a content generator. Here's the context..."*
 
 **With `needs_analysis_reading_the_room.md`:**
 > *"I have a discovery meeting with a stakeholder tomorrow who has already decided they want a compliance course. Help me think through what questions to ask and what to listen for beyond what they tell me directly."*
