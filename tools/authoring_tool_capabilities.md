@@ -647,7 +647,231 @@ CenarioVR excels at:
 
 ---
 
-## Choosing Among All Three Tools
+## H5P
+
+### The H5P Ecosystem
+
+H5P is an open-source framework for creating interactive HTML5
+content. Unlike Storyline, Rise, or Lectora—which are standalone
+desktop or cloud applications—H5P is a content type library that
+runs inside other platforms. Understanding where H5P lives is
+essential before understanding what it does.
+
+**H5P Open Source (free)**
+The original, community-maintained version. Runs as a plugin
+inside Moodle, WordPress, Canvas, Drupal, and other platforms
+that support it. Free to use, but requires a host platform and
+some technical comfort to set up. The most common context for
+H5P in instructional design is Moodle—H5P is deeply integrated
+with Moodle and is a natural choice for organizations already
+running Moodle as their LMS.
+
+**H5P.com (freemium)**
+A commercial hosted version of H5P that removes the need for
+a host platform. Content is created and hosted on H5P.com.
+Free tier allows limited content; paid plans unlock more content
+types, storage, and reporting. Lower technical barrier than
+the open source version but introduces a recurring cost and
+platform dependency.
+
+**Which version is relevant:**
+For most instructional designers working in organizations that
+use Moodle, Canvas, or WordPress — the open source plugin
+version is the relevant context. H5P.com is more relevant
+for independent designers or small organizations without
+an existing LMS. Both produce the same content types;
+the difference is in hosting and setup.
+
+Resources:
+- h5p.org — open source documentation and content type library
+- h5p.com — hosted version
+- Moodle H5P integration — docs.moodle.org
+
+### What H5P Is
+H5P is not a single tool — it is a library of over 50
+distinct interactive content types, each designed for a
+specific instructional purpose. This is both its greatest
+strength and its steepest learning curve: there is no
+single interface to master, because each content type
+has its own authoring environment and logic.
+
+H5P is particularly strong in open-source LMS environments
+(Moodle, Canvas, WordPress) where budget constraints make
+commercial authoring tools impractical. It produces
+standards-compliant HTML5 output that is mobile-responsive
+by default and reports via xAPI and SCORM 2004 where the
+host platform supports it.
+
+The learning curve is real. H5P rewards designers who invest
+time learning its content types and configuration options.
+Casual or occasional users will find it slower and more
+frustrating than commercial tools. It is not the right
+choice for designers who need to produce content quickly
+without significant upfront investment in learning the platform.
+
+### Key Content Types for Instructional Designers
+
+H5P's 50+ content types range from simple to sophisticated.
+The following are the most ID-relevant:
+
+**Branching Scenario**
+H5P's most powerful content type for scenario-based learning.
+Supports multi-path branching with distinct consequence screens,
+embedded media, and scored outcomes. Comparable in concept to
+Storyline branching but with a different (and initially less
+intuitive) authoring interface. Genuinely capable when mastered.
+
+**Interactive Video**
+Overlays questions, hotspots, and navigation points onto
+video content. One of H5P's strongest and most distinctive
+content types — allows designers to transform existing video
+assets into interactive learning experiences. Supports
+multiple question types embedded at specific timestamps.
+
+**Course Presentation**
+Slide-based content with embedded interactions. Closest
+to a traditional e-learning slide deck. Supports a range
+of embedded H5P content types within slides. More limited
+design control than Storyline but functional for straightforward
+content delivery.
+
+**Quiz (Question Set)**
+A sequenced set of question types including multiple choice,
+true/false, drag and drop, fill in the blank, and mark the words.
+Configurable feedback, retry options, and pass/fail thresholds.
+Solid for knowledge checks when deep interactivity isn't required.
+
+**Dialog Cards**
+Flashcard-style interactions for vocabulary, definitions,
+or concept review. Simple to build, effective for spaced
+practice content.
+
+**Drag and Drop**
+Custom drag-and-drop interactions where designers define
+drop zones and draggable elements. Useful for labeling
+diagrams, categorization tasks, and matching exercises.
+Requires more configuration than it initially appears.
+
+**Image Hotspot**
+Clickable hotspots on a static image that reveal information
+panels. Useful for equipment identification, spatial
+orientation, and visual reference content.
+
+**Accordion**
+Expandable content panels. Simple, accessible, useful for
+reference material and FAQ-style content where learners
+need to explore rather than follow a sequence.
+
+**Timeline**
+Chronological content display with media and text. Useful
+for historical context, process orientation, and any content
+with a temporal dimension.
+
+**Speak the Words / Speak the Words Set**
+Speech recognition-based interactions where learners respond
+verbally. Uncommon in commercial tools — a genuine differentiator
+for language learning or verbal response practice contexts.
+Browser support limitations apply.
+
+### Publishing Formats
+- HTML5 (all modern browsers, mobile-responsive by default)
+- SCORM 2004 (via host platform integration)
+- xAPI / Tin Can (where host platform supports it)
+- Embedded content (within Moodle, WordPress, Canvas, etc.)
+- Standalone embed via H5P.com iframe
+
+Note: H5P does not publish to SCORM 1.2 natively. For
+organizations with older LMS infrastructure that requires
+SCORM 1.2, this is a significant limitation.
+
+### What H5P Does Well
+- **Open source and free:** No licensing cost for the
+  core platform — significant advantage in budget-constrained
+  environments and nonprofit or educational contexts
+- **Moodle integration:** Deep, native integration with
+  Moodle — H5P content created inside Moodle grades and
+  reports automatically through the Moodle gradebook
+- **Mobile-responsive by default:** All H5P content
+  renders responsively without additional configuration
+- **Interactive video:** One of the best interactive
+  video tools available at any price point
+- **Branching Scenario depth:** When mastered, H5P
+  Branching Scenario produces genuinely sophisticated
+  multi-path learning experiences
+- **Accessibility:** H5P content types are generally
+  well-structured for accessibility, with keyboard
+  navigation and screen reader support across most
+  content types
+- **Community and extensibility:** Active open-source
+  community; custom content types can be developed
+  for organizations with development resources
+
+### What Is Not Possible in H5P
+- **Pixel-perfect visual design:** H5P content types
+  have fixed visual templates with limited styling options.
+  Designers who need precise control over layout, typography,
+  and visual design will find H5P constraining.
+- **Custom animations and transitions:** No native support
+  for the kind of timeline-based animation available in
+  Storyline. Motion is limited to what individual content
+  types support.
+- **Rapid production:** H5P's learning curve means initial
+  production is slower than commercial tools until the
+  designer is fluent in the relevant content types.
+- **SCORM 1.2:** Not supported natively — a real limitation
+  for older LMS environments.
+- **Standalone delivery without a host platform:**
+  H5P content requires a host (Moodle, WordPress, H5P.com,
+  or similar). It cannot be packaged as a self-contained
+  deliverable the way a Storyline or Rise export can.
+- **Consistent branding across content types:**
+  Each content type has its own visual template. Achieving
+  a consistent branded look across multiple H5P content
+  types in a single course is difficult without custom
+  CSS development.
+
+### H5P's Sweet Spot
+H5P excels at:
+- Moodle-based learning environments where native
+  integration and gradebook reporting matter
+- Budget-constrained organizations (educational
+  institutions, nonprofits, government) where commercial
+  licensing is not feasible
+- Interactive video — transforming existing video assets
+  into interactive learning experiences
+- Organizations with developer resources who can extend
+  and customize the platform
+- Open-source ecosystems where vendor lock-in is a concern
+- Designers who are willing to invest time learning the
+  platform in exchange for a powerful, free tool
+
+H5P is not the right choice when:
+- Rapid production is a priority
+- Precise visual design control is required
+- The organization uses an LMS that does not support
+  H5P integration
+- SCORM 1.2 compliance is required
+- The designer needs a self-contained, portable output
+  file without platform dependencies
+
+### H5P vs. Commercial Tools: The Honest Assessment
+H5P is not trying to compete with Storyline or Rise on
+production speed or design flexibility. It is a different
+tool for a different context. The decision is rarely
+"H5P vs. Storyline" — it is usually "H5P because the
+budget and platform make commercial tools impractical,
+or because Moodle integration is a hard requirement."
+
+For organizations already running Moodle, H5P is often
+the obvious first choice for interactive content — not
+because it is easier or more flexible than commercial
+tools, but because the integration, cost, and open-source
+alignment make it the right fit for that environment.
+
+
+---
+
+## Choosing Among All Four Tools
 
 | Situation | Recommended Tool |
 |---|---|
