@@ -73,6 +73,8 @@ you have to explain yourself to every time.
 | `quality_assurance_testing_for_elearning.md` | Functional, instructional, editorial, and accessibility QA; bug tracking; sign-off process |
 | `character_design_for_elearning.md` | Visual style spectrum (photorealistic, flat vector, hand-drawn, comic, cartoon); character consistency across renders; inclusive representation including naming, hair, facial features, age, gender/role distribution, and professional clothing diversity; AI generation constraints; the reference image anchor technique |
 | `designing_for_sensitive_topics.md` | Tone calibration for DEI, harassment, mental health, ethics, and crisis content; the empathy-utility balance; levity as a design tool; process guidance for sensitive content projects |
+| `assessing_interaction_quality.md` | Six-dimension rubric for evaluating scenario and interaction design quality: scenario realism, choice architecture, consequence design, cognitive load calibration, objective alignment, and feedback depth; coaching prompts per dimension; common failure patterns; guidance for using the rubric in ID mentorship conversations |
+| `ui_control_design_for_elearning.md` | The additive redundancy failure mode in AI-generated UI; the principle that controls should communicate their own purpose; design guidance for toggles, sliders, buttons, drag zones, and progress indicators; prompting strategies for AI-assisted control design; proportion and scale; quick review checklist |
 
 ### tools/
 | File | What It Covers |
@@ -169,6 +171,12 @@ try prompts like these:
 
 **With `designing_for_sensitive_topics.md`:**
 > *"I'm building harassment prevention training and I want it to actually prepare people for real situations—not just check a compliance box. Where do I start?"*
+
+**With `assessing_interaction_quality.md`:**
+> *"Review this branching scenario interaction and tell me where the choice architecture and consequence design are strong—and where they're falling short."*
+
+**With `ui_control_design_for_elearning.md`:**
+> *"I need a toggle for switching between two modes in my e-learning UI. Help me design a control that signals its own purpose without needing supplementary labels or icons."*
 
 **With `industry_specific_design_considerations.md`:**
 > *"I'm designing clinical training for nurse practitioners in an acute care setting. What do I need to know about this vertical before I start, and what should I flag for SME review?"*
